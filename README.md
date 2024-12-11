@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+This project is a simple web application designed to facilitate a conversation between a user and an AI entirely via email. The AI aims to promote the Sarah Academy product by sending personalized messages to users. The system is initiated through a web page where a user enters their email address.
+
+Delopyed version:
+https://fe-email-form.vercel.app/?vercelToolbarCode=Z37-pwfJgWgqED2
+
+Start project: yarn && yarn dev
